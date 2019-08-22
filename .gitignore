@@ -2,3 +2,5 @@
 *.pkl
 *.model
 *.npy
+*.json
+*.txt
